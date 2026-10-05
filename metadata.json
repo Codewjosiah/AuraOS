@@ -1,0 +1,6 @@
+{
+  "name": "AURA OS",
+  "description": "AURA OS - A new Android interaction layer and launcher foundation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
